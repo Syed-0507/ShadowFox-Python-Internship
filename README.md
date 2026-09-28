@@ -1,28 +1,50 @@
 # ShadowFox Python Development Internship
 
-This repository contains my completed tasks for the ShadowFox Python Development Internship.
+This repository contains my completed tasks and projects from the **ShadowFox Python Development Internship**.
 
-## Domain
-Python Development
+## Internship Details
 
-## Level Completed
-Intermediate
+* **Organization:** ShadowFox
+* **Domain:** Python Development
+* **Level Completed:** Beginner, Intermediate & Advanced
 
-## Tasks
+## Levels Completed
 
-### Beginner Level
-Completed Python programming tasks covering fundamental concepts.
+### 🟢 Beginner Level
 
-### Intermediate Level
-Completed Python web scraping and related development tasks.
+
+### 🟡 Intermediate Level
+
+
+### 🔴 Advanced Level
+
+
 
 ## Technologies Used
 
-- Python
-- BeautifulSoup
-- CSV
-- File Handling
-- Object-Oriented Programming
+* Python
+* BeautifulSoup
+* HTML
+* CSV
+* File Handling
+* Object-Oriented Programming
+* APIs
+* Cloud Computing
+* Serverless Functions
 
-## Internship
-ShadowFox
+## Repository Structure
+
+```text
+ShadowFox-Python-Internship/
+│
+├── Beginner/
+├── Intermediate/
+├── Advanced/
+└── README.md
+```
+
+## Internship Completion
+
+Successfully completed the **Beginner, Intermediate, and Advanced levels** of the ShadowFox Python Development Internship.
+
+This repository contains the work completed during the internship for reference and evaluation.
